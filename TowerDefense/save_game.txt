@@ -1,0 +1,42 @@
+false
+true
+1
+1
+725
+145
+1
+true
+24
+3
+3
+0
+class Entity.EnemyPackage.BossEnemy-1080-226-2-1000
+class Entity.EnemyPackage.BossEnemy-949-456-6-1000
+class Entity.EnemyPackage.TankerEnemy-936-379-7-300
+class Entity.EnemyPackage.TankerEnemy-870-264-9-300
+class Entity.EnemyPackage.BossEnemy-780-264-10-1000
+class Entity.EnemyPackage.NormalEnemy-690-264-11-25
+class Entity.EnemyPackage.BossEnemy-648-216-12-1000
+class Entity.EnemyPackage.NormalEnemy-648-126-13-40
+class Entity.EnemyPackage.TankerEnemy-610-73-14-300
+class Entity.EnemyPackage.NormalEnemy-520-73-15-100
+class Entity.EnemyPackage.BossEnemy-430-73-16-1000
+class Entity.EnemyPackage.NormalEnemy-408-141-17-100
+class Entity.EnemyPackage.NormalEnemy-408-231-18-100
+class Entity.EnemyPackage.BossEnemy-408-321-19-1000
+class Entity.EnemyPackage.SmallerEnemy-696-264-20-50
+class Entity.EnemyPackage.TankerEnemy-408-501-21-300
+class Entity.EnemyPackage.NormalEnemy-320-504-22-100
+class Entity.EnemyPackage.TankerEnemy-230-504-23-300
+class Entity.EnemyPackage.TankerEnemy-140-504-24-300
+class Entity.EnemyPackage.NormalEnemy-120-434-25-100
+class Entity.EnemyPackage.SmallerEnemy-232-504-26-50
+class Entity.EnemyPackage.TankerEnemy-120-253-27-300
+class Entity.EnemyPackage.TankerEnemy-114-168-28-300
+class Entity.EnemyPackage.BossEnemy-25-168-29-1000
+class Entity.TowerPackage.NormalTower-168-360-false
+class Entity.TowerPackage.SniperTower-456-264-false
+class Entity.TowerPackage.MachineTower-840-408-true
+class Entity.BulletPackage.NormalBullet-22-291-476
+class Entity.BulletPackage.MachineBullet-2-954-322
+class Entity.BulletPackage.SniperBullet-11-561-264
