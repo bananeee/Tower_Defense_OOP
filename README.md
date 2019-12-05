@@ -1,1 +1,6 @@
-# Tower_Defense_OOP
+The Battle Cat 
+
+Thành viên:
+-Hoàng Đức Minh
+-Phạm Đức Long
+-Nguyễn Đức Quốc Đại
